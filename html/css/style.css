@@ -1,7 +1,11 @@
 body {
-  background: url(../img/background.jpg);
+ 
+  background: linear-gradient(45deg, #343d88, #baa0d4,#80bdc7 );
+   */
+  /* background: url(../img/background.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+  font-family: "Candara", sans-serif;
 }
 
 .slider-title {
